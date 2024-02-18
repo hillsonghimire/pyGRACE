@@ -1,0 +1,31 @@
+{
+    "name": "projects/gee-ait/assets/GRACE/MASS_GRIDS/LAND/20231101_20231130",
+    "tilesets": [
+        {
+            "id": "20231101_20231130",
+            "sources": [
+                {
+                    "uris": [
+                        "gs://gee-ingest-fao/GRACE/20060301_20060331.tif"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bands": [
+        {
+            "id": "lwe_thickness_csr",
+            "tileset_id": "20231101_20231130"
+        }
+    ],
+    "start_time": {
+        "seconds": 1698796800
+    },
+    "end_time": {
+        "seconds": 1701302400
+    },
+    "properties": {
+        "CSR_START_TIME": 1698796800000,
+        "CSR_end_TIME": 1701302400000
+    }
+}
