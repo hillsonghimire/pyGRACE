@@ -3,7 +3,7 @@ This repository contains a set of function along with example scripts to preproc
 
 The image injesting utilize the guideline based on Google Earth Engine [manifest uploads](https://developers.google.com/earth-engine/image_manifest).
 
-![Grace Satellite Mascon](/pyGRACE/assets/img/groundWater.gif)
+![Grace Satellite Mascon](/assets/img/groundWater.gif)
 
 <br>
 
@@ -19,12 +19,12 @@ The workflow consists of following major steps:
 
 <br>
 
-![Workflow Diagram](/pyGRACE/assets/img/Workflow.png)
+![Workflow Diagram](/assets/img/Workflow.png)
 <br>
 
 ### Overview of Analysis Ready Data(ARD) in GEE to user applications
 
-![Application Diagram](/pyGRACE/assets/img/application.png)
+![Application Diagram](/assets/img/application.png)
 
 <br>
 
